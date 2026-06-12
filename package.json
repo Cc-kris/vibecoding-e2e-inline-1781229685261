@@ -1,0 +1,8 @@
+{
+  "name": "vibecoding-e2e-inline-1781229685261",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "test": "echo 'placeholder test' && exit 0"
+  }
+}
